@@ -1,8 +1,7 @@
-import java.util.ArrayList;
 public class InheritanceProgramRunner {
 
 	public static void main(String[] args) {
-
+		
 		SchoolSubject s1 = new SchoolSubject();
 		SchoolSubject s2 = new Math();
 		//Math m1 = new SchoolSubject();

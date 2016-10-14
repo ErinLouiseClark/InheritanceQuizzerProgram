@@ -1,11 +1,6 @@
 
 public class SchoolSubject {
 
-	protected String name;
-	protected String grade;
-	protected String homeworkLoad;
-	protected String teacher;
-
 	protected void giveHomework(){
 		System.out.println("The teacher gave a lot of homework today!");
 	}
